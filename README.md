@@ -47,9 +47,5 @@ I'm **Drijesh PPatel**, a **Cybersecurity and Generative AI Thought Leader**, an
 - [40 under 40 - Influential Leaders](https://magazines.insightssuccess.in/2023/the-40-under-40-influential-leaders-2023-may2023/#page=52)
 - [India's 100 Future Leaders](https://glantorx.com/2023/03/17/list-of-future-leaders-2023-by-glantor-x-released/)
   
----
-### ✍️ Quote worth reading
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
----
 
 _If you’d like me to keynote, present a session, or run a workshop, reach out to me on [LinkedIn](https://www.linkedin.com/in/drijesh)._
